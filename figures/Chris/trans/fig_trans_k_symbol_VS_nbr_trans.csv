@@ -1,0 +1,9 @@
+,trans_k_symbol, mean_trans_amount , size 
+0,Household," 4,222 "," 118,065 "
+1,Insurance payment," 1,307 "," 18,500 "
+2,Interest credited, 150 ," 183,114 "
+3,Loan payment," 4,069 "," 13,580 "
+4,Old-age pension," 5,520 "," 30,338 "
+5,Payment for statement, 17 ," 155,832 "
+6,Sanction interest if negative balance, 24 ," 1,577 "
+7,Unknown_Transaction_Type," 10,241 "," 535,314 "
