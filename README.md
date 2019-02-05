@@ -6,7 +6,7 @@ datasets 1.Card 2.Client 3. Account 4.Trans 5. Orders 6.Loans 7.Demographics 8. 
 observations and variables of this data mart are 5,369 and 81 respectively
 
 
-## Datamart (basetable) Analysis
+## Output: Datamart Analysis - Reveals Top & Bottom 10% customers
 
 ‘trans_ratio_98_97’ column derives from the ratio of transaction growth in the past year. After sorted
 this column descending, it reveals the top 10% customers with the most transaction growth in the past
